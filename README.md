@@ -1,5 +1,5 @@
-# Hello World!, I'm Kunal Rawat, a Web Developer 👋🏼
-
+<!-- # Hello World!, I'm Kunal Rawat, a Web Developer 👋🏼 -->
+<img src="https://res.cloudinary.com/ddsqjzrow/image/upload/v1739551661/github-header-image_1_zswabp.png" alt="GitHub Banner" width="100%" />
 <!--
 **kunalrawat19/kunalrawat19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
